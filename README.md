@@ -1,1 +1,1 @@
-![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal)
+![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal&theme=blue-green)

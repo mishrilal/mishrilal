@@ -1,7 +1,6 @@
 <h2>Hi, I'm Mishrilal Chhaparia!</h2>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="mishrilal-chhaparia-074969192"><a class="LI-simple-link" href='https://in.linkedin.com/in/mishrilal-chhaparia-074969192?trk=profile-badge'>Mishrilal Chhaparia</a></div>
 
-![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal&theme=blue-green&show_icons=true&count_private=true)
+![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=atul&theme=blue-green&show_icons=true&count_private=true)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-171-blue)

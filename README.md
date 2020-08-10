@@ -1,6 +1,6 @@
 <h2>Hi, I'm Mishrilal Chhaparia!</h2>
 
-![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=atul&theme=blue-green&show_icons=true&count_private=true)
+<!-- ![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal&theme=blue-green&show_icons=true&count_private=true) -->
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-171-blue)

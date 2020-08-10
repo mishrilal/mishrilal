@@ -1,3 +1,8 @@
+<h2>Hi, I'm Mishrilal Chhaparia!</h2>
+[![Linkedin: mishrilal](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)](https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)
+![GitHub followers](https://img.shields.io/github/followers/mishrilal?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=mishrilal.mishrilal)
+
 ![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal&theme=blue-green&show_icons=true&count_private=true)
 
 <!--START_SECTION:waka-->

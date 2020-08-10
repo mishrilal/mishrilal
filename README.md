@@ -3,7 +3,7 @@
 <!-- ![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal&theme=blue-green&show_icons=true&count_private=true) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-248-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-314653%20Lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 🏆 0 Contributions in year 2020
  > 
-> 📦 Used 366.1 kB in GitHub's Storage 
+> 📦 Used 366.6 kB in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 

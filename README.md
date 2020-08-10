@@ -3,19 +3,19 @@
 <!-- ![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal&theme=blue-green&show_icons=true&count_private=true) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-210-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-216-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-322426%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-311675%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in year 2020
+> 🏆 0 Contributions in year 2020
  > 
 > 📦 Used 365.5 kB in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 1 Public Repository 
+> 📜 0 Public Repository 
  > 
 > 🔑 25 Owned Private Repositories 
 

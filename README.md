@@ -2,4 +2,3 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@mishrilal/98594483-4845-44f7-9ec4-cbd6097ebb9b.svg"></embed></figure>

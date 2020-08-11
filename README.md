@@ -1,46 +1,47 @@
 <h2>Hey, I'm Mishrilal Chhaparia!</h2>
-<img align='right' src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="230">
 
 <!-- ![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal&theme=blue-green&show_icons=true&count_private=true) -->
 ![GitHub followers](https://img.shields.io/github/followers/mishrilal?label=Follow&style=social)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Mishrilal%20Chhaparia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)](https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)
 
+<img align='right' src="https://media.giphy.com/media/l4hLVCjU48I2nHpQI/giphy.gif" width="300">
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-358-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-314653%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-5.5%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 60 Contributions in year 2020
  > 
-> 📦 Used 366.6 kB in GitHub's Storage 
+> 📦 Used 366.7 kB in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 24 Owned Private Repositories 
+> 🔑 25 Owned Private Repositories 
 
 **I'm an early 🐤** 
 
 ```text
-🌞 Morning    161 commits    ████████░░░░░░░░░░░░░░░░░   34.18% 
-🌆 Daytime    116 commits    ██████░░░░░░░░░░░░░░░░░░░   24.63% 
-🌃 Evening    118 commits    ██████░░░░░░░░░░░░░░░░░░░   25.05% 
-🌙 Night      76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14%
+🌞 Morning    162 commits    ████████░░░░░░░░░░░░░░░░░   35.06% 
+🌆 Daytime    106 commits    █████░░░░░░░░░░░░░░░░░░░░   22.94% 
+🌃 Evening    118 commits    ██████░░░░░░░░░░░░░░░░░░░   25.54% 
+🌙 Night      76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.45%
 
 ```
 📅 **I'm Most Productive on Sundays** 
 
 ```text
-Monday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
-Tuesday      75 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.92% 
-Wednesday    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
-Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
-Friday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-Saturday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-Sunday       90 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.11%
+Monday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Tuesday      66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Wednesday    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
+Friday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
+Saturday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Sunday       90 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.48%
 
 ```
 
@@ -62,14 +63,14 @@ VS Code                  5 hrs 57 mins       ███████████�
 
 ```
 
-**I mostly code in JavaScript** 
+**I mostly code in C++** 
 
 ```text
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+C++                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
 
 ```
 

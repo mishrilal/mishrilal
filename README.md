@@ -2,7 +2,7 @@
 
 <!-- ![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal&theme=blue-green&show_icons=true&count_private=true) -->
 ![GitHub followers](https://img.shields.io/github/followers/mishrilal?label=Follow&style=social)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Mishrilal Chhaparia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)](https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Mishrilal+Chhaparia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)](https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-358-blue)

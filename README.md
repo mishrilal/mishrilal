@@ -1,4 +1,3 @@
-<style bgcolor="black">
 <h2>Hey, I'm Mishrilal Chhaparia!</h2>
 <img align='right' src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="230">
 
@@ -81,5 +80,3 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-</style>

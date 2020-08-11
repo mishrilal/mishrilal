@@ -1,4 +1,5 @@
 <h2>Hey, I'm Mishrilal Chhaparia!</h2>
+<img align='right' src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="230">
 
 <!-- ![Mishrilal's github stats](https://github-readme-stats.vercel.app/api?username=mishrilal&theme=blue-green&show_icons=true&count_private=true) -->
 ![GitHub followers](https://img.shields.io/github/followers/mishrilal?label=Follow&style=social)

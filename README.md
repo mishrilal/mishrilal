@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mishrilal?label=Follow&style=social)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Mishrilal%20Chhaparia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)](https://www.linkedin.com/in/mishrilal-chhaparia-074969192/)
 
-<img align='right' src="https://media.giphy.com/media/l4hLVCjU48I2nHpQI/giphy.gif" width="300">
+<img align='right' src="https://https://media.giphy.com/media/l3vRjJWmeANzJ7fKE/giphy.gif" width="230">
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-358-blue)

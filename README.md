@@ -81,10 +81,4 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<details>
-    <summary>:zap: Github Stats </summary>
-
-    <img align="left" alt="Mishri's Github Stats" src="https://github-readme-stats.mishrilal.vercel.app/api?username=mishrilal&show_icons=true"/>
-
-</details>
+<img align="left" alt="Mishri's Github Stats" src="https://github-readme-stats.mishrilal.vercel.app/api?username=mishrilal&show_icons=true"/>

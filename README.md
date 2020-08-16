@@ -9,13 +9,13 @@
 <img align='right' src="https://avatars1.githubusercontent.com/u/53535840?s=400&u=ccbf62c3091d7277d104d3666e4598207f27c197&v=4" width="250">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-450-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-460-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-318392%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 651 Contributions in 2020
+> 🏆 652 Contributions in 2020
  > 
 > 📦 Used 366.3 kB in GitHub's Storage 
  > 

@@ -81,4 +81,6 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-<img align="left" alt="Mishri's Github Stats" src="https://github-readme-stats.mishrilal.vercel.app/api?username=mishrilal&show_icons=true"/>
+<img align="left" alt="Mishri's Github Stats" src="https://github-readme-stats.mishrilal.vercel.app/api?username=mishrilal&show_icons=true&count_private=true"/>
+
+[![Top Langs](https://github-readme-stats.mishrilal.vercel.app/api/top-langs/?username=mishrilal)](https://github.com/anuraghazra/github-readme-stats)

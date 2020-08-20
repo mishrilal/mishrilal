@@ -11,19 +11,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-469-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318392%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318392%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 646 Contributions in the year 2020
+> 🏆 646 Contributions in the Year 2020
  > 
 > 📦 366.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 1 Public repository 
+> 📜 1 Public Repository 
  > 
-> 🔑 24 Private repositories 
+> 🔑 24 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -48,10 +48,10 @@ Sunday       90 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 C++                      11 hrs 8 mins       ███████████████████░░░░░░   77.19% 
@@ -60,7 +60,7 @@ JSON                     43 mins             █░░░░░░░░░░�
 YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
-🔥 Code Editors: 
+🔥 Editors: 
 VS Code                  14 hrs 26 mins      █████████████████████████   100.0%
 
 ```

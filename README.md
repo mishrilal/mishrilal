@@ -63,7 +63,7 @@ No Activity Tracked This Week
 
 **Timeline**
 
-![Chart not found](https://github.com/mishrilal/mishrilal/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/mishrilal/mishrilal/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->

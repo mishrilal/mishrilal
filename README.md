@@ -21,10 +21,10 @@
  > 
 > 💼 Opted to Hire
  > 
-1 Public Repository 
+> 📜 1 Public Repository 
  > 
 > 🔑 31 Private Repositories  
-
+ > 
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/mishrilal/mishrilal/master/charts/bar_graph.png) 

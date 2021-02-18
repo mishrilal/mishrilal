@@ -21,9 +21,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 33 Private Repositories  
+> 🔑 32 Private Repositories  
  > 
 **Timeline**
 

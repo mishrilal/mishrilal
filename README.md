@@ -25,9 +25,9 @@
  > 
 > 🔑 37 Private Repositories  
  > 
-**Timeline**
+<!-- **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/mishrilal/mishrilal/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/mishrilal/mishrilal/master/charts/bar_graph.png)  -->
 
 
  Last Updated on 25/07/2021

@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-631584%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-633503%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 480 Contributions in the Year 2021
+> 🏆 485 Contributions in the Year 2021
  > 
 > 📦 534.4 kB Used in Github's Storage 
  > 
@@ -25,6 +25,18 @@
  > 
 > 🔑 37 Private Repositories  
  > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
+
+```
+
+
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/mishrilal/mishrilal/master/charts/bar_graph.png) 

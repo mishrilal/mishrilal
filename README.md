@@ -15,7 +15,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 485 Contributions in the Year 2021
+> 🏆 487 Contributions in the Year 2021
  > 
 > 📦 534.4 kB Used in Github's Storage 
  > 
@@ -25,18 +25,6 @@
  > 
 > 🔑 37 Private Repositories  
  > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
-
-```
-
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/mishrilal/mishrilal/master/charts/bar_graph.png) 

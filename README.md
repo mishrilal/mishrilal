@@ -9,7 +9,7 @@
 <img align='right' src="https://avatars1.githubusercontent.com/u/53535840?s=400&u=ccbf62c3091d7277d104d3666e4598207f27c197&v=4" width="250">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-473%20Thousand%20lines%20of%20code-blue)
 
@@ -26,5 +26,5 @@
 > 🔑 39 Private Repositories  
  > 
 
- Last Updated on 22/06/2022 00:53:05 UTC
+ Last Updated on 23/06/2022 00:52:26 UTC
 <!--END_SECTION:waka-->
